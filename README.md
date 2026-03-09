@@ -78,18 +78,6 @@ A user interface for managing:
 # 🏗 System Architecture
 
 The system follows a **modular AI system architecture**.
-User
-↓
-Frontend (Next.js)
-↓
-Backend API (FastAPI)
-↓
-Agent Orchestrator (LangGraph)
-↓
-Matching Engine + LLM Services
-↓
-Vector Database (Pinecone)
-
 Key architectural layers:
 
 1. **Frontend Layer**
@@ -97,6 +85,8 @@ Key architectural layers:
 3. **AI Agent System**
 4. **Job Data Pipeline**
 5. **Storage Layer**
+
+<img width="522" height="791" alt="image" src="https://github.com/user-attachments/assets/b17f5a1b-56e1-4d78-b951-9081ef94d385" />
 
 More detailed architecture documentation is available in the **docs directory**.
 
