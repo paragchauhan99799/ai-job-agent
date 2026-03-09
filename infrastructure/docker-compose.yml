@@ -1,0 +1,3 @@
+# Docker Compose Configuration
+
+This file defines the services for the ai-job-agent system using Docker Compose.

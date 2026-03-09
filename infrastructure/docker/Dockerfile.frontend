@@ -1,0 +1,3 @@
+# Dockerfile for Frontend
+
+This Dockerfile builds the frontend service using Next.js.

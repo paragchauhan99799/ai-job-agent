@@ -1,0 +1,3 @@
+# Dockerfile for Backend
+
+This Dockerfile builds the backend service using Python and FastAPI.
